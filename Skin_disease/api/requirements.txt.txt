@@ -6,4 +6,6 @@ pillow
 tensorflow-serving-api==2.5.0
 matplotlib
 numpy
-computer vision 
+opencv-python
+google-generativeai
+python-dotenv
